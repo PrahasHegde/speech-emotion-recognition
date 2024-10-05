@@ -132,3 +132,12 @@ def predict_emotion(file_name):
 
 # Example: Predict emotion for an individual file
 predict_emotion("C:\\Users\\hegde\\OneDrive\\Desktop\\Speech Emotion Recognition\\speech-emotion-recognition-ravdess-data\\Actor_01\\03-01-05-02-02-02-01.wav")
+
+
+
+
+
+"""librosa: A library for audio and music processing. Used to extract audio features like MFCC, chroma, mel spectrogram, etc"""
+"""glob is used to find files matching a specified pattern (like .wav files in this case)"""
+"""soundfile: Used to read and write sound files in a variety of formats."""
+
